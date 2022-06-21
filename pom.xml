@@ -11,7 +11,7 @@
     <properties>
         <lombok.version>1.18.12</lombok.version>
         <mongo.driver.version>3.7.1</mongo.driver.version>
-        <mysql.driver.version>8.0.19</mysql.driver.version>
+        <mysql.driver.version>8.0.28</mysql.driver.version>
         <postgresql.driver.version>42.2.12</postgresql.driver.version>
         <junit.version>4.13</junit.version>
         <apache.poi.version>4.1.2</apache.poi.version>
